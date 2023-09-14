@@ -4,7 +4,7 @@ body{
 }
 ol{
     color: black;                                       /* màu chữ*/
-    font-size: 20px;                                      /* cỡ chữ*/
+    font-size: 10px;                                      /* cỡ chữ*/
     font-weight: normal; /*bold*/                         /* độ dày, mỏng của chữ*/
     font-family: 'Special Elite', cursive;                /* font chữ lấy trêm gg*/
     line-height: 1.5;                                     /* khoảng cách giữa các dòng văn bản*/
