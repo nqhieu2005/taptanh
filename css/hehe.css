@@ -11,7 +11,7 @@ ol{
     text-align: justify; /*left center right*/            /* dùng để "canh lề theo chiều ngang" cho văn bản bên trong phần tử.*/
     text-decoration: none;/*underline line-through  */    /* đường gạch chân, gạch trên hoặc gạch xuyên qua được áp dụng cho văn bản*/
     text-transform: none;/*lowkercase uppersace*/         /* điều chỉnh văn bản sang dạng chữ in hoa hoặc chữ thường*/
-    width: 600px;                                         /* hiết lập chiều rộng phần nội dung (content) của phần tử*/
+    width: 200px;                                         /* hiết lập chiều rộng phần nội dung (content) của phần tử*/
     float: left;                                          /*chuyển một hình ảnh sang góc trái hoặc phải so với chữ trong không gian bao quanh nó*/              
     margin: 30px;                                         /*phần lề nằm giữa đường viền của phần tử với các phần tử xung quanh*/
     /*
